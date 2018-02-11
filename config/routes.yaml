@@ -1,0 +1,7 @@
+index:
+    path: /
+    controller: App\Controller\jobController::indexAction
+
+job:
+    path: /job
+    controller: App\Controller\jobController::jobShowAction
